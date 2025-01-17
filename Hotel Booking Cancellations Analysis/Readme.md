@@ -6,8 +6,7 @@ This project focuses on understanding why hotel cancellations happen and finding
 
 One of the first clues pointed toward room status mismatches. Guests often booked specific rooms based on their preferences, but when they were assigned an undesired room instead, cancellations surged. This mismatch played a key role in rising numbers, emphasizing the importance of aligning room availability with guest expectations.
 
-Seasonal Trends: Peaks and Pitfalls?
-
+*Seasonal Trends: Peaks and Pitfalls?*    
 Next, the data highlighted seasonal variations. Bookings were highest during peak travel months, but so were cancellations. Managing high-demand seasons and last-minute changes in travel plans contributed to the issue. Understanding these trends could help the hotel reduce cancellations during busy periods.
 
 *Guest Type Preferences: Who Cancels More?*
