@@ -16,6 +16,7 @@ This data helps analyze IPL trends, team performances, and player contributions.
 
 
 *Dashboard Description*
+-----
 The dashboard I created visualizes key IPL insights. It shows:
 
   - Matches won by teams when batting or fielding first.
@@ -26,6 +27,7 @@ The dashboard I created visualizes key IPL insights. It shows:
 
 
 *Skills Learned/Practice from this Project:*
+-----
 - How to make MIS dashboard in Excel
 - How to prepare the data before dashboard building
 - Use Pivot Tables and Pivot charts
