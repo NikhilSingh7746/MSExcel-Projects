@@ -1,5 +1,5 @@
-IPL Analysis
-About the Dataset
+<h3>IPL Data Analysis</h3>
+
 The IPL (Indian Premier League) is one of the most popular cricket tournaments, with players from all over the world. Each season is filled with exciting moments and intense competition.
 
 This dataset contains details of IPL matches from 2008 to 2024. It includes:
