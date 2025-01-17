@@ -3,7 +3,7 @@
 This project focuses on understanding why hotel cancellations happen and finding ways to reduce them. Using an interactive Excel dashboard, we analyzed important factors like room preferences, seasonal trends, and guest behavior. Were cancellations caused by guests not getting their preferred rooms? Did certain times of the year lead to more cancellations? Or were some guest types more likely to cancel? With the help of data, we set out to uncover the answers.
 
 *Room Status Mismatch*: A Likely Suspect?     
------
+---
 One of the first clues pointed toward room status mismatches. Guests often booked specific rooms based on their preferences, but when they were assigned an undesired room instead, cancellations surged. This mismatch played a key role in rising numbers, emphasizing the importance of aligning room availability with guest expectations.
 
 *Seasonal Trends*: Peaks and Pitfalls?      
