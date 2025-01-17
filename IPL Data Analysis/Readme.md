@@ -1,4 +1,4 @@
-# IPL Analysis
+# IPL Data Analysis
 
 The IPL (Indian Premier League) is one of the most popular cricket tournaments, with players from all over the world. Each season is filled with exciting moments and intense competition.
 
