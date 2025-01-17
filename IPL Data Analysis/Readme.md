@@ -4,6 +4,7 @@ The IPL (Indian Premier League) is one of the most popular cricket tournaments, 
 
 
 *About the Dataset*
+-----
 This dataset contains details of IPL matches from 2008 to 2024. It includes:
   - Match ID, city, year, and season.
   - Date and venue of the match.
